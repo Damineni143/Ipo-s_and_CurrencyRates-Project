@@ -1,0 +1,33 @@
+.login-stock-img{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    border-radius: 12rem;
+    margin-left: 6rem;
+}
+.login-text{
+    margin-left: 6rem;
+}
+.input-width{
+    margin-top: 3px;
+}
+.email-login{
+    margin-top: 18px;
+}
+.password-login{
+    margin-top: 18px;
+}
+.main-login-page{
+    margin-left: 37rem;
+    margin-top: 4rem;
+    /* border: 1px solid black; */
+    width: 30%;
+    padding: 1rem 5rem;
+}
+.login-btnn{
+    margin-top: 18px;
+}
+.router-sign-up{
+    margin-left: 8rem;
+    margin-top: 18px !important;
+}
